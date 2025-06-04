@@ -1,2 +1,4 @@
-# Cinetry [下载地址](https://www.123865.com/s/3tw0Td-2dOkh)
-Cinetry播放器，Jellyfin、Emby、CMS数据导入，支持Andorid、iOS、Windows、macOS、Linux
+# Cinetry
+多平台视频播放器 
+
+支持Jellyfin、Emby、CMS数据导入，服务器一键切换，多服务器数据聚合搜索 
