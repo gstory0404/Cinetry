@@ -2,6 +2,11 @@
 
 Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS 、webdav和IPTV）的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。
 
+# 下载
+[Github](https://github.com/gstory0404/Cinetry/releases)  
+
+[123云盘](https://www.123865.com/s/3tw0Td-2dOkh)
+
 ## TODO
 - Web(docker版)适配中
 
