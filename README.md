@@ -26,6 +26,9 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 
 <img src="https://file.gstory.cn/my/wechatds.png" width="180" alt="Image 1"> 
 
+## Star
+[![Stargazers over time](https://starchart.cc/gstory0404/Cinetry.svg?variant=adaptive)](https://starchart.cc/gstory0404/Cinetry)
+
 # 申明
 - Cinetry是一款免费工具，旨在为用户提供便捷的方式，通过用户自行配置的内容管理系统（CMS）、IPTV、WebDav、AList、OpenList、Jellyfin、Emby等服务来展示、搜索和播放影片。本应用本身不托管、存储或分发任何影视内容，也不提供任何影视资源或相关链接。所有内容的获取、展示和播放均由用户提供的 CMS、Jellyfin 或 Emby 服务决定。
 - Cinetry严格遵守隐私保护原则，不会收集、存储或传输任何用户的个人信息或数据。您的所有操作（如连接到 CMS、IPTV、WebDav、AList、OpenList、Jellyfin、Emby等服务）均在本地设备上完成，且所有数据流均直接与您所配置的服务进行交互，本应用不会对数据进行任何形式的记录或转发。
