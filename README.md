@@ -9,7 +9,8 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 ## 正式版
 - [Github](https://github.com/gstory0404/Cinetry/releases)
 - [123云盘](https://www.123865.com/s/3tw0Td-2dOkh)
-
+- [蓝奏云](https://gstory.lanzoub.com/b00eg9vr3c)（密码:5o54）
+  
 ## 测试版
 - [123云盘](https://www.123865.com/s/3tw0Td-AfOkh)
 - [蓝奏云](https://gstory.lanzoub.com/b00eg9vr4d)（密码:gmbh）
