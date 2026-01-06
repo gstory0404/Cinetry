@@ -6,12 +6,15 @@
 Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS 、webdav、Subsonic、Navidrom、GD音乐台和IPTV）的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。纯本地客户端，不扫库仅通过接口获取当前页面展示所需数据。[使用文档](https://cinetry.gstory.cn)
 
 # 下载
+> iOS目前需要借助爱思助手、巨魔安装
 ## 正式版
+- [自用盘](https://pan.gstory.cn/@s/ZxthECKv)
 - [Github](https://github.com/gstory0404/Cinetry/releases)
 - [123云盘](https://www.123865.com/s/3tw0Td-2dOkh)
 - [蓝奏云](https://gstory.lanzoub.com/b00eg9vr3c)（密码:5o54）
   
 ## 测试版
+- [自用盘](https://pan.gstory.cn/@s/KwHgOlEr)
 - [123云盘](https://www.123865.com/s/3tw0Td-AfOkh)
 - [蓝奏云](https://gstory.lanzoub.com/b00eg9vr4d)（密码:gmbh）
 
