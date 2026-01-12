@@ -1,5 +1,6 @@
 ![Cinetry](https://socialify.git.ci/gstory0404/Cinetry/image?custom_description=%F0%9F%93%A1%E6%95%B0%E6%8D%AE%E6%BA%90%EF%BC%9AJellyfin%E3%80%81Emby%E3%80%81CMS%E3%80%81IPTV%E3%80%81Webdav%E3%80%81Alist%E3%80%81Openlist%E3%80%81Subsonic%E3%80%81Navidrom%0A%F0%9F%92%BB%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%9AAndorid%E3%80%81iOS%E3%80%81Windows%E3%80%81macOS%E3%80%81Linux%E3%80%81TV&description=1&font=Bitter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fgstory0404%2FCinetry%2Frefs%2Fheads%2Fmaster%2Fcinetry_logo.png&name=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
+<a href="https://qm.qq.com/q/jePcmnUHy8"><img src=https://img.shields.io/badge/QQ%E7%BE%A4-Cinetry-blue></a>
 <a href="https://t.me/cinetry"><img src=https://img.shields.io/badge/Telegram%E9%A2%91%E9%81%93-Cinetry-blue></a>
 <a href="https://t.me/CinetryGroup"><img src=https://img.shields.io/badge/Telegram%E7%BE%A4%E7%BB%84-Cinetry-blue></a>
 
