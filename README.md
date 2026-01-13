@@ -27,9 +27,9 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 
 - Web(docker版)适配中
 
-|                                                                                                                                                 |                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `<img src="https://raw.githubusercontent.com/gstory0404/Cinetry/a8c26bf590ce5f95e9e864f98cfde01ad9a9a402/pc2.png" width="500" alt="Image 1">` | `<img src="https://raw.githubusercontent.com/gstory0404/Cinetry/a8c26bf590ce5f95e9e864f98cfde01ad9a9a402/phone2.jpg" width="200" alt="Image 2">` |
+|                                                                                                                          |                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| `<img src="https://raw.githubusercontent.com/gstory0404/Cinetry/refs/heads/master/pc2.png" width="500" alt="Image 1">` | `<img src="https://raw.githubusercontent.com/gstory0404/Cinetry/refs/heads/master/phone2.jpg" width="200" alt="Image 2">` |
 
 ### 下载地址
 
