@@ -11,19 +11,13 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 > iOS目前需要借助爱思助手、巨魔安装
 
 ## 正式版
-
-- [自用盘](https://pan.gstory.cn/@s/ZxthECKv)（免登录）
 - [Github](https://github.com/gstory0404/Cinetry/releases)
 - [123云盘](https://www.123865.com/s/3tw0Td-2dOkh)
-- [蓝奏云](https://gstory.lanzoub.com/b00eg9vr3c)（密码:5o54）
-- [小太阳云盘](https://cncncloud.com/s/zOrTP)（免登录）
-
+- [小飞机网盘](https://share.feijipan.com/s/xM1XiLnq)（免登录）
+  
 ## 测试版
-
-- [自用盘](https://pan.gstory.cn/@s/KwHgOlEr)（免登录）
 - [123云盘](https://www.123865.com/s/3tw0Td-AfOkh)
-- [蓝奏云](https://gstory.lanzoub.com/b00eg9vr4d)（密码:gmbh）
-- [小太阳云盘](https://cncncloud.com/s/bRvH4)（免登录）
+- [小飞机网盘](https://share.feijipan.com/s/qU1XiDbF)（免登录）
 
 ## TODO
 
