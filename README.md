@@ -8,7 +8,7 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 
 # 下载
 
-> iOS目前需要借助爱思助手、巨魔安装
+> iOS借助爱思助手、巨魔安装，打赏任意金额留言邮箱获取邀请TestFlight链接
 
 ## 正式版
 - [Github](https://github.com/gstory0404/Cinetry/releases)
@@ -35,7 +35,7 @@ Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件
 
 开发维护不易，支持作者
 
-> 留言ID方便展示
+> 留言邮箱获取邀请TestFlight链接
 
 <img src="https://file.gstory.cn/my/wechatds.png" width="180" alt="Image 1">
 
